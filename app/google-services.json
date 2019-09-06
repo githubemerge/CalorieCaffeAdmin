@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "552166800748",
+    "firebase_url": "https://calorie-caffe-admin.firebaseio.com",
+    "project_id": "calorie-caffe-admin",
+    "storage_bucket": "calorie-caffe-admin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552166800748:android:9ace3eacad8e32ce",
+        "android_client_info": {
+          "package_name": "emerge.project.caloriecaffeadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552166800748-0iae3btqe3q9sodqp4uqb4k2nph31cf5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdtbJ9AM7r_3QzAYilvZxqmwwc8Y1--ss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552166800748-0iae3btqe3q9sodqp4uqb4k2nph31cf5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

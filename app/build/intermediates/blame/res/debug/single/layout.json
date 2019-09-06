@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Project\\Android\\Calorie Caffe\\Admin\\App\\Calorie Caffe Admin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_complete.xml",
+        "source": "E:\\Project\\Android\\Calorie Caffe\\Admin\\App\\Calorie Caffe Admin\\app\\src\\main\\res\\layout\\activity_complete.xml"
+    },
+    {
+        "merged": "E:\\Project\\Android\\Calorie Caffe\\Admin\\App\\Calorie Caffe Admin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_code.xml",
+        "source": "E:\\Project\\Android\\Calorie Caffe\\Admin\\App\\Calorie Caffe Admin\\app\\src\\main\\res\\layout\\activity_code.xml"
+    },
+    {
+        "merged": "E:\\Project\\Android\\Calorie Caffe\\Admin\\App\\Calorie Caffe Admin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_pending.xml",
+        "source": "E:\\Project\\Android\\Calorie Caffe\\Admin\\App\\Calorie Caffe Admin\\app\\src\\main\\res\\layout\\activity_pending.xml"
+    }
+]

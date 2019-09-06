@@ -1,0 +1,4 @@
+#Tue May 28 17:32:33 IST 2019
+base.0=E\:\\Project\\Android\\Calorie Caffe\\Admin\\App\\Calorie Caffe Admin\\app\\build\\intermediates\\transforms\\r8\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

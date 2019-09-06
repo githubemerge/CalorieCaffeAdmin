@@ -1,0 +1,57 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Project\\Android\\Calorie Caffe\\Admin\\App\\Calorie Caffe Admin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Himanshu Emerge\\.gradle\\caches\\transforms-2\\files-2.1\\d15d6c474a98761d7728d5e3ccf7aa66\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,121",
+                        "endColumns": "65,62",
+                        "endOffsets": "116,179"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Himanshu Emerge\\.gradle\\caches\\transforms-2\\files-2.1\\b1ed1a27c63a5758040571899182abf6\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,19,32,33,34,38,39,40,41",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,190,325,400,487,1277,2079,2206,2311,2535,2650,2757,2870",
+                        "endLines": "2,3,4,5,18,31,32,33,37,38,39,40,44",
+                        "endColumns": "134,134,74,86,12,12,126,104,12,114,106,112,12",
+                        "endOffsets": "185,320,395,482,1272,2074,2201,2306,2530,2645,2752,2865,3095"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,21,34,35,36,40,41,42,43",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "184,319,454,529,616,1406,2208,2335,2440,2664,2779,2886,2999",
+                        "endLines": "4,5,6,7,20,33,34,35,39,40,41,42,46",
+                        "endColumns": "134,134,74,86,12,12,126,104,12,114,106,112,12",
+                        "endOffsets": "314,449,524,611,1401,2203,2330,2435,2659,2774,2881,2994,3224"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Himanshu Emerge\\.gradle\\caches\\transforms-2\\files-2.1\\b782b01be3897c2311ff0cc9d2a20800\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "200"
+                    },
+                    "to": {
+                        "startLines": "47",
+                        "startColumns": "4",
+                        "startOffsets": "3229",
+                        "endLines": "49",
+                        "endColumns": "12",
+                        "endOffsets": "3374"
+                    }
+                }
+            ]
+        }
+    ]
+}
